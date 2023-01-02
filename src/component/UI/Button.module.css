@@ -1,0 +1,13 @@
+.button{
+    width: 8rem;
+    height: 2rem;
+    border-radius: 0.5rem;
+    border: 1px solid #666;
+    background-color: darkcyan;
+    color: white;
+}
+.button:hover {
+    background-color: darkcyan;
+    opacity: 0.8;
+}
+
